@@ -15,5 +15,5 @@ It's used to statistical processed data.
 **至此本阶段数据处理工作结束，下面是初步的统计，考察该区域“是否有饼吃”,希望振幅随震中距增大而减小，即dist-amp曲线k<0**
 
 ## 运行文件之统计
-* 4.statis.py  
+* 4.statistic.py  
   <_**输出**_>：./4.statistic/4.statistic33to25.png等。png中红点是全部数据，黑点是3sigma以内的数据，曲线拟合的是黑点，黑点<10黑色，反之蓝线
