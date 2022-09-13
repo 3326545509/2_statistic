@@ -17,3 +17,5 @@ It's used to statistical processed data.
 ## 运行文件之统计
 * 4.statistic.py  
   <_**输出**_>：./4.statistic/4.statistic33to25.png等。png中红点是全部数据，黑点是3sigma以内的数据，曲线拟合的是黑点，黑点<10黑色，反之蓝线
+* 5.healthCheckSta.py  
+  <_**输出**_>：5.health/3.health33to25.csv 5.health33to25.png，用以台站的质量检测，调用5.exclude_cold.sh剔除掉csv中质量差的台站并生成新的csv文件
