@@ -7,7 +7,8 @@ import os
 from obspy import read
 
 pathdata='/home/y_piao/work/2_test/4-6'
-houzuis=['33to25','25to20']
+houzuis=['33to25','25to20','20to17','17to15','15to13.2','13.2to11.7','11.7to10',\
+'10to8.5','8.5to7.3','7.3to6.4','6.4to5.5','5.5to4.8','4.8to4.25']
 
 def process_a_houzui(houzui):
     sacs=[]
